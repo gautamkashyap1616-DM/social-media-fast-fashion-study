@@ -1,10 +1,19 @@
-User Guide
-------------------
-The auto backup files are generated automatically by Filmora to safeguard against the loss of project editing progress. These files cannot be directly accessed from the folder. To open them, please adhere to the following procedures:
+# Impact of Social Media Marketing on Consumer Purchase Intention
 
-Step 1: Initiate the Filmora application
-Step 2: Double-click to enter any desired project
-Step 3: Navigate to "Menu Bar- File - Project Backups"
-Step 4: Examine the backup files for any project
+## Overview
+This project analyzes how User-Generated Content (UGC) and Brand-Generated Content (BGC) influence consumer trust, brand loyalty, and purchase intention in India's fast fashion industry.
 
-Should you encounter any additional issues, kindly seek assistance from the customer support team within the software itself.
+## Key Insights
+- UGC builds higher trust than BGC
+- Brand loyalty is the strongest driver of purchase intention
+- Instagram dominates fashion discovery (69.65%)
+
+## Dataset
+- 200 respondents
+- Variables: UGC Trust, BGC Trust, Brand Loyalty, Purchase Intention
+
+## Strategy Framework
+UGC → Trust → Loyalty → Purchase → Retention
+
+## Author
+Gautam Kashyap
